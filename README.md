@@ -12,3 +12,5 @@ To execute, simply call the script demo.sh.
 **Expected**: have the micro and nano seconds on the timestamp be populated
 
 **Actual**: The timestamp will have the format "2022-05-04T18:48:23.716000000Z" and the micro / nano seconds will be set to 0.
+
+Link to the JIRA issue tracking the bug: https://issues.apache.org/jira/browse/LOG4J2-3498
